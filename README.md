@@ -2,7 +2,8 @@
 
 New to this game, please be patient with me!	:laughing:
 
-- :mechanical_arm: I’m currently working on myself, a never-ending project 
+- :raising_hand_man: Pronouns: He/Him
+- :mechanical_arm: I’m currently working on myself, especially in the data science field 
 - :brain: I’m currently learning Python and SQL
 - 📫 How to reach me: arvynathaniel@gmail.com
-- :raising_hand_man: Pronouns: He/Him
+- :bar_chart: Tableau dashboards: https://public.tableau.com/app/profile/arvy.nathaniel
