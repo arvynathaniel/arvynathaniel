@@ -1,5 +1,5 @@
 ### Hello, I am Arvy Nathaniel!
-and you can call me Arvy
+and you can call me Arvy.
 
 New to this game, please be patient with me!	:slightly_smiling_face:
 
