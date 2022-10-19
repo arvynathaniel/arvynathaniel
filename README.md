@@ -1,9 +1,7 @@
 ### Hello, I am Arvy Nathaniel!
 and you can call me Arvy.
 
-New to this game, please be patient with me!	:slightly_smiling_face:
+I am a data analytics enthusiast, relatively new to this field, but have been rigorously training and have been improving since to better equip myself with the technical skills needed, be it in the analysis skill itself and in the tools to do the works, such as Python, spreadsheets, and Tableau. This profile will mainly serve as a portfolio which showcases my Python works for data analysis projects. Some projects also include machine learning works, as I am also interested in exploring the data science field.
 
-- :mechanical_arm: I’m currently working on myself, especially in the data science field 
-- :brain: I’m currently learning Python, R, SQL, Tableau, arts of data viz, and trying to stuff my head as much as I can with some machine learning modules
-- 📫 How to reach me: arvynathaniel@gmail.com
+- 📫 Reach me: arvynathaniel@gmail.com
 - :bar_chart: Tableau dashboards: https://public.tableau.com/app/profile/arvy.nathaniel
